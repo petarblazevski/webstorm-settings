@@ -1,0 +1,5 @@
+<application>
+  <component name="WslNodeInterpreters">
+    <wsl-interpreter distribution="UBUNTU" path="/root/.nvm/versions/node/v11.3.0/bin/node" />
+  </component>
+</application>

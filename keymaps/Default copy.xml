@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
