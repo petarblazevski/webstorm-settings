@@ -4,5 +4,13 @@
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Test">
+      <action id="GotoAction" />
+      <typing text-keycode="82:1;69:0;70:0;79:0;82:0">Refor</typing>
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
