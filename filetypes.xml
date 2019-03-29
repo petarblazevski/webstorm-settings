@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tsconfig.spec.json" approved="true" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.spec.json" approved="true" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
