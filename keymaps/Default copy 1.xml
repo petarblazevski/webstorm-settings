@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy 1" parent="$default">
-  <action id="Macro.Reformat and Save">
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
+  <action id="Macro.ReformatOnSave">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
